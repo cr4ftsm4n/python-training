@@ -4,15 +4,15 @@ import Particles from 'react-particles-js'
 
 const contents = [
   {
-    text: '01 Python紹介',
+    text: '01 Python介紹',
     href: './01_introduction.html',
   },
   {
-    text: '02 開発環境構築',
+    text: '02 開発環境',
     href: './02_開発環境構築.html',
   },
   {
-    text: '03 基本タイプ',
+    text: '03 基本类型',
     href: './03_prime_type.html',
   },
   {
@@ -22,6 +22,10 @@ const contents = [
   {
     text: '05 序列',
     href: './05_sequences.html',
+  },
+  {
+    text: '06 集合&字典 ',
+    href: './06_sets_and_dictionaries.html',
   },
 ]
 
@@ -117,6 +121,15 @@ class IndexPage extends Component {
                 <img
                   src="https://badges.gitter.im/cr4ftsm4n/eb_pythonista.png"
                   alt="Gitter chat"
+                  title=""
+                />
+              </a>
+            </div>
+            <div>
+              <a href="https://discord.gg/qEuaRu3">
+                <img
+                  src="https://img.shields.io/discord/437604842299719680.svg?logo=discord&label=discord&colorB=7289DA&style=flat-square"
+                  alt="Discord chat"
                   title=""
                 />
               </a>

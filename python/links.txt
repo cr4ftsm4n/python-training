@@ -1,0 +1,4 @@
+https://www.python-course.eu/python3_lambda.php
+https://github.com/mzucker/noteshrink/blob/master/noteshrink.py
+https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg
+https://twitter.com/twitter/statuses/964897007793041408
