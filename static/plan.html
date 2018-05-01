@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>計画書</title>
+</head>
+
+<body>
+    <div id="content"></div>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        var request = new Request("Doc.md");
+        fetch(request).then(function (response) {
+            if (response.ok) {
+                return response.text();
+            } else {
+                throw new Error("Network response was not ok.");
+            }
+        }).then(function (data) {
+            document.getElementById('content').innerHTML = marked(data);
+        }).catch(function (err) {
+            console.log(err);
+        });
+
+    </script>
+</body>
+
+</html>
