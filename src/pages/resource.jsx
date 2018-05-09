@@ -19,6 +19,14 @@ const Resource = () => (
                   Microsoft Azure Notebooks
                 </a>
               </li>
+              <li>
+                <a
+                  href="https://colab.research.google.com/notebooks/welcome.ipynb"
+                  target="_blank"
+                >
+                  Google Colaboratory
+                </a>
+              </li>
             </ul>
           </h2>
         </div>
@@ -77,7 +85,15 @@ const Resource = () => (
                   href="https://notebooks.azure.com/cr4ftsm4n/libraries/homeworks"
                   target="_blank"
                 >
-                  课后作业
+                  课后作业(笔记本)
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://github.com/cr4ftsm4n/python-homework/issues"
+                  target="_blank"
+                >
+                  课后作业(管理)
                 </a>
               </li>
             </ul>
