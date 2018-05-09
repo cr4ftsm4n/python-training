@@ -72,6 +72,14 @@ const Resource = () => (
                   仓库大门
                 </a>
               </li>
+              <li>
+                <a
+                  href="https://notebooks.azure.com/cr4ftsm4n/libraries/homeworks"
+                  target="_blank"
+                >
+                  课后作业
+                </a>
+              </li>
             </ul>
           </h2>
         </div>
