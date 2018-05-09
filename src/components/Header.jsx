@@ -52,6 +52,9 @@ class Navbar extends Component {
               <Link className="navbar-item" to="/vimeo">
                 <span>视频</span>
               </Link>
+              <Link className="navbar-item" to="/rule">
+                <span>利用規約</span>
+              </Link>
               <Link className="navbar-item" to="/changelog">
                 <span>变更履历</span>
               </Link>
