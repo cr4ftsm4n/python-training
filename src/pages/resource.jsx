@@ -48,6 +48,35 @@ const Resource = () => (
         </div>
       </div>
     </section>
+    <section className="hero">
+      <div className="hero-body">
+        <div className="container">
+          <h1 className="title">培训相关</h1>
+          <h2 className="subtitle">
+            <ul>
+              <li>
+                <a href="https://www.twitch.tv/cr4ftsm4n" target="_blank">
+                  一个人的表演
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://notebooks.azure.com/cr4ftsm4n/libraries/python-training"
+                  target="_blank"
+                >
+                  Azure笔记本
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/cr4ftsm4n" target="_blank">
+                  仓库大门
+                </a>
+              </li>
+            </ul>
+          </h2>
+        </div>
+      </div>
+    </section>
   </div>
 )
 

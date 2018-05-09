@@ -117,15 +117,6 @@ class IndexPage extends Component {
         <section className="section">
           <div className="container">
             <div>
-              <a href="https://gitter.im/eb_pythonista/public?utm_source=share-link&utm_medium=link&utm_campaign=share-link">
-                <img
-                  src="https://badges.gitter.im/cr4ftsm4n/eb_pythonista.png"
-                  alt="Gitter chat"
-                  title=""
-                />
-              </a>
-            </div>
-            <div>
               <a href="https://discord.gg/qEuaRu3">
                 <img
                   src="https://img.shields.io/discord/437604842299719680.svg?logo=discord&label=discord&colorB=7289DA&style=flat-square"

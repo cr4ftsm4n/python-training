@@ -60,13 +60,6 @@ class Navbar extends Component {
               </Link> */}
               <a
                 className="navbar-item"
-                href="https://github.com/cr4ftsm4n/python_exercism"
-                target="_blank"
-              >
-                <span>仓库入口</span>
-              </a>
-              <a
-                className="navbar-item"
                 href="https://python-blog.netlify.com/"
                 target="_blank"
               >
