@@ -64,7 +64,7 @@ const Resource = () => (
             <ul>
               <li>
                 <a href="https://www.twitch.tv/cr4ftsm4n" target="_blank">
-                  一个人的表演
+                  一个人的表演(twitch)
                 </a>
               </li>
               <li>
@@ -72,12 +72,12 @@ const Resource = () => (
                   href="https://notebooks.azure.com/cr4ftsm4n/libraries/python-training"
                   target="_blank"
                 >
-                  Azure笔记本
+                  互动教程(笔记本)
                 </a>
               </li>
               <li>
                 <a href="https://github.com/cr4ftsm4n" target="_blank">
-                  仓库大门
+                  仓库大门(Github)
                 </a>
               </li>
               <li>
