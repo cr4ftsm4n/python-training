@@ -63,43 +63,50 @@ total 33 時限(予定)
 
 ### IDE
 
-*   Pycharm
-*   VSCode
-*   Jupyter Notebook
+* Pycharm
+* VSCode
+* Jupyter Notebook
 
 ### Useful Links
 
-*   [Python trending projects](https://github.com/trending/python)
-*   [Python Document](https://docs.python.org/3/)
-*   [Azure Notebooks](https://notebooks.azure.com/)
+* [Python trending projects](https://github.com/trending/python)
+* [Python Document](https://docs.python.org/3/)
+* [Azure Notebooks](https://notebooks.azure.com/)
 
 ### Community
 
-*   Github
-*   Gitter
+* Github
+* Gitter
 
 ### 利用するツール
 
-*   pipenv
-*   virtualenv
-*   requests
-*   numpy, scipy, pandas
-*   python-fire, logzero
-*   flask
-*   Python Asyncio
-*   Elasticsearch, kibana
-*   sqlite
-*   redis
-*   opencv
+* pipenv
+* virtualenv
+* requests
+* numpy, scipy, pandas
+* python-fire, logzero
+* flask
+* Python Asyncio
+* Elasticsearch, kibana
+* sqlite
+* redis
+* opencv
 
 ### Side Project
 
-*   elastic-kibana
-*   web-app
-*   github-bot
-*   chat-bot
-*   youtube-downloader
+* elastic-kibana
+* web-app
+* github-bot
+* chat-bot
+* youtube-downloader
 
 ### Final Project
 
-*   みんな協力して、実際に使える PJ を完成させる。（PJ は未定）
+* みんな協力して、実際に使える PJ を完成させる。（PJ は未定）
+
+| 単語     | 解釈   |
+| -------- | ------ |
+| iterable | sdfsdf |
+| dict     | sdfsdf |
+| list     | sdfsdf |
+| set      | sdfsdf |

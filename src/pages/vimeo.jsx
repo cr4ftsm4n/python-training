@@ -2,44 +2,43 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 const Vimeo = () => (
-  <div className="container">
-    <div
-      style={{
-        position: 'relative',
-        padding: '56.25% 0 0 0',
-      }}
-    >
-      <iframe
-        src="https://player.vimeo.com/video/266986347"
-        style={{
-          position: 'absolute',
-          top: 0,
-          left: 0,
-          width: '100%',
-          height: '100%',
-        }}
-        allowFullScreen
-      />
-    </div>
-    <div
-      style={{
-        position: 'relative',
-        padding: '56.25% 0 0 0',
-      }}
-    >
-      <iframe
-        src="https://player.vimeo.com/video/268998577"
-        style={{
-          position: 'absolute',
-          top: 0,
-          left: 0,
-          width: '100%',
-          height: '100%',
-        }}
-        allowFullScreen
-      />
-    </div>
-    <script src="https://player.vimeo.com/api/player.js" />{' '}
+  <div>
+    <section className="section">
+      <div className="container">
+        <h1 className="title">4/26</h1>
+        <iframe
+          src="https://player.vimeo.com/video/266986347"
+          width="640"
+          height="400"
+          frameborder="0"
+          allowFullScreen
+        />
+      </div>
+    </section>
+    <section className="section">
+      <div className="container">
+        <h1 className="title">travis</h1>
+        <iframe
+          src="https://player.vimeo.com/video/268998577"
+          width="640"
+          height="400"
+          frameborder="0"
+          allowFullScreen
+        />
+      </div>
+    </section>
+    <section className="section">
+      <div className="container">
+        <h1 className="title">Pull Request</h1>
+        <iframe
+          src="https://player.vimeo.com/video/270117041"
+          width="640"
+          height="400"
+          frameborder="0"
+          allowFullScreen
+        />
+      </div>
+    </section>
   </div>
 )
 
