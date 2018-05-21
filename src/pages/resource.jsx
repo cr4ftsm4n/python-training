@@ -51,6 +51,22 @@ const Resource = () => (
                   Markdown 简易入门教程
                 </a>
               </li>
+              <li>
+                <a
+                  href="https://services.github.com/on-demand/downloads/zh_CN/github-git-cheat-sheet/"
+                  target="_blank"
+                >
+                  Git Cheat Sheet(中国語)
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://help.github.com/articles/creating-a-pull-request-from-a-fork/"
+                  target="_blank"
+                >
+                  creating-a-pull-request-from-a-fork(英語)
+                </a>
+              </li>
             </ul>
           </h2>
         </div>
