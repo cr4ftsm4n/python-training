@@ -67,6 +67,11 @@ const Resource = () => (
                   creating-a-pull-request-from-a-fork(英語)
                 </a>
               </li>
+              <li>
+                <a href="https://regex101.com/" target="_blank">
+                  regex101(英語)
+                </a>
+              </li>
             </ul>
           </h2>
         </div>

@@ -29,6 +29,14 @@ const Vimeo = () => (
             allowFullScreen
           />
         </div>
+        <div className="column">
+          <h1 className="title">5/24</h1>
+          <iframe
+            src="https://player.vimeo.com/video/271676192"
+            frameBorder="0"
+            allowFullScreen
+          />
+        </div>
       </div>
     </section>
   </div>

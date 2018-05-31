@@ -25,7 +25,15 @@ const contents = [
   },
   {
     text: '06 集合&字典 ',
-    href: './06_sets_and_dictionaries.html',
+    href: 'https://notebooks.azure.com/cr4ftsm4n/libraries/python-training',
+  },
+  {
+    text: '07 関数',
+    href: 'https://notebooks.azure.com/cr4ftsm4n/libraries/python-training',
+  },
+  {
+    text: '08 Class',
+    href: 'https://notebooks.azure.com/cr4ftsm4n/libraries/python-training',
   },
 ]
 
